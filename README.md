@@ -15,7 +15,7 @@ usage: brfw option args...
 options:
   -i           show board information
   -l num val   set led state to value
-  -b \[count\]   blink all the leds found
+  -b [count]   blink all the leds found
   -r           restart system now
   -f file      flash firmware file
   -n file      flash file no prompt
